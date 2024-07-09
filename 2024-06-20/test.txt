@@ -1,0 +1,42 @@
+is_prime(2016634099) with pid:20133 called by parent process 20130. 
+intermediate result: 2016634099 is prime:
+is_prime(2016634099) returned True with pid:20133
+is_prime(612169) with pid:20133 called by parent process 20130. 
+intermediate result: 612169 is prime:
+is_prime(612169) returned True with pid:20133
+is_prime(612173) with pid:20133 called by parent process 20130. 
+intermediate result: 612173 is prime:
+is_prime(612173) returned True with pid:20133
+is_prime(612181) with pid:20133 called by parent process 20130. 
+intermediate result: 612181 is prime:
+is_prime(612181) returned True with pid:20133
+is_prime(612193) with pid:20133 called by parent process 20130. 
+intermediate result: 612193 is prime:
+is_prime(612193) returned True with pid:20133
+is_prime(612217) with pid:20133 called by parent process 20130. 
+intermediate result: 612217 is prime:
+is_prime(612217) returned True with pid:20133
+is_prime(612223) with pid:20133 called by parent process 20130. 
+intermediate result: 612223 is prime:
+is_prime(612223) returned True with pid:20133
+is_prime(612229) with pid:20133 called by parent process 20130. 
+intermediate result: 612229 is prime:
+is_prime(612229) returned True with pid:20133
+is_prime(4066813089249541801) with pid:20132 called by parent process 20130. 
+is_prime(4066813089249541801) returned False with pid:20132
+is_prime(1190611) with pid:20134 called by parent process 20130. 
+intermediate result: 1190611 is prime:
+is_prime(1190611) returned True with pid:20134
+is_prime(1417554553321) with pid:20134 called by parent process 20130. 
+is_prime(1417554553321) returned False with pid:20134
+main loop printed: 1190611 is prime: True
+main loop printed: 1417554553321 is prime: False
+main loop printed: 2016634099 is prime: True
+main loop printed: 4066813089249541801 is prime: False
+main loop printed: 612169 is prime: True
+main loop printed: 612173 is prime: True
+main loop printed: 612181 is prime: True
+main loop printed: 612193 is prime: True
+main loop printed: 612217 is prime: True
+main loop printed: 612223 is prime: True
+main loop printed: 612229 is prime: True
