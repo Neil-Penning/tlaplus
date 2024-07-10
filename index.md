@@ -48,5 +48,7 @@ I have currently titled my notes [[An Introduciton to Modeling]], though I may c
 # People
 
 # Monthly Meeting Notes
+- [[Meeting_2024-06-11]]
+- [[Meeting_2024-07-09]]
 - https://hackmd.io/@NeilPenning/2024-06-11_TLA_Plus
 - https://hackmd.io/@NeilPenning/2024-07-09_TLA_Plus
