@@ -6,5 +6,5 @@ tags: []
 site: https://members.loria.fr/Stephan.Merz/
 ---
 
-# Stephan_Merz]
+# Stephan_Merz
 

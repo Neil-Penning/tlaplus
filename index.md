@@ -12,6 +12,7 @@ Here's what I'm decent at:
 - Math
 - Programming
 - Using Open Source Software
+
 Here's what I want to get better at
 - Math
 - Programming
